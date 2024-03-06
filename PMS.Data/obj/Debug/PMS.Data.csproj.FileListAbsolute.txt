@@ -1,0 +1,6 @@
+C:\Users\praja\source\repos\WebApi\PMS.Data\bin\Debug\PMS.Data.dll
+C:\Users\praja\source\repos\WebApi\PMS.Data\bin\Debug\PMS.Data.pdb
+C:\Users\praja\source\repos\WebApi\PMS.Data\obj\Debug\PMS.Data.csproj.AssemblyReference.cache
+C:\Users\praja\source\repos\WebApi\PMS.Data\obj\Debug\PMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\praja\source\repos\WebApi\PMS.Data\obj\Debug\PMS.Data.dll
+C:\Users\praja\source\repos\WebApi\PMS.Data\obj\Debug\PMS.Data.pdb

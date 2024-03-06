@@ -1,0 +1,9 @@
+C:\Users\praja\source\repos\WebApi\PMS.Repositories\bin\Debug\PMS.Repositories.dll
+C:\Users\praja\source\repos\WebApi\PMS.Repositories\bin\Debug\PMS.Repositories.pdb
+C:\Users\praja\source\repos\WebApi\PMS.Repositories\obj\Debug\PMS.Repositories.csproj.AssemblyReference.cache
+C:\Users\praja\source\repos\WebApi\PMS.Repositories\obj\Debug\PMS.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\praja\source\repos\WebApi\PMS.Repositories\obj\Debug\PMS.Repositories.dll
+C:\Users\praja\source\repos\WebApi\PMS.Repositories\obj\Debug\PMS.Repositories.pdb
+C:\Users\praja\source\repos\WebApi\PMS.Repositories\bin\Debug\PMS.Data.dll
+C:\Users\praja\source\repos\WebApi\PMS.Repositories\bin\Debug\PMS.Data.pdb
+C:\Users\praja\source\repos\WebApi\PMS.Repositories\obj\Debug\PMS.Repositories.csproj.CopyComplete

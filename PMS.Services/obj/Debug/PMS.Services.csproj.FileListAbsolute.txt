@@ -1,0 +1,13 @@
+C:\Users\praja\source\repos\WebApi\PMS.Services\obj\Debug\PMS.Services.csproj.AssemblyReference.cache
+C:\Users\praja\source\repos\WebApi\PMS.Services\obj\Debug\PMS.Services.csproj.CoreCompileInputs.cache
+C:\Users\praja\source\repos\WebApi\PMS.Services\bin\Debug\PMS.Services.dll
+C:\Users\praja\source\repos\WebApi\PMS.Services\bin\Debug\PMS.Services.pdb
+C:\Users\praja\source\repos\WebApi\PMS.Services\bin\Debug\PMS.Data.dll
+C:\Users\praja\source\repos\WebApi\PMS.Services\bin\Debug\PMS.Repositories.dll
+C:\Users\praja\source\repos\WebApi\PMS.Services\bin\Debug\StructureMap.dll
+C:\Users\praja\source\repos\WebApi\PMS.Services\bin\Debug\PMS.Data.pdb
+C:\Users\praja\source\repos\WebApi\PMS.Services\bin\Debug\PMS.Repositories.pdb
+C:\Users\praja\source\repos\WebApi\PMS.Services\bin\Debug\StructureMap.xml
+C:\Users\praja\source\repos\WebApi\PMS.Services\obj\Debug\PMS.Services.csproj.CopyComplete
+C:\Users\praja\source\repos\WebApi\PMS.Services\obj\Debug\PMS.Services.dll
+C:\Users\praja\source\repos\WebApi\PMS.Services\obj\Debug\PMS.Services.pdb
